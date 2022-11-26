@@ -1,7 +1,7 @@
 # Every Page Ask — Scrambling Talents over to Hong Kong for Developing an International Innovation and Technology Centre
 <p align="center">
- <a href="https://www.immd.gov.hk/eng/facts/visa-control.html"><img src="https://github.com/Jack-cky/EPA-Scrambling_Talents_over_to_Hong_Kong/blob/main/imgs/talents_acquisition.png" height="300px"></a><br>
- <i> Credit: <a href="https://www.miraic.jp/online/8tips/category/tip02/7698.html"> miraic.jp </a></i>
+ <a href="https://www.immd.gov.hk/eng/facts/visa-control.html"><img src="https://github.com/Jack-cky/EPA-Scrambling_Talents_over_to_Hong_Kong/blob/main/imgs/talents_acquisition_new.png"></a><br>
+ <i> Credit: <a href="https://www.immd.gov.hk/eng/services/visas/quality_migrant_admission_scheme.html"> immd.gov.hk </a></i>
 </p>
 
 Click [me](https://public.tableau.com/app/profile/jackcky/viz/TalentsScramblinginHongKong/HongKongTalentScrambling) to see how Hong Kong _ROBS_ talents over the world!
@@ -18,7 +18,7 @@ Click [me](https://public.tableau.com/app/profile/jackcky/viz/TalentsScramblingi
 
 ---
 ### Data Source
-The figures on visa applications are available in the [Hong Kong Immigration Department](https://www.immd.gov.hk/eng/facts/visa-control.html). As it is published officially, data is assumed to be accurate and error-free. Data processing is done in Excel scraping.
+The figures on visa applications are available in the [Hong Kong Immigration Department](https://www.immd.gov.hk/eng/facts/visa-control.html). As it is published officially, data is assumed to be accurate and error-free. Data processing is done in Excel scraping (no-code development).
 
 ---
 ### Implication
